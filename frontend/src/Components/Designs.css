@@ -1,0 +1,127 @@
+body {
+  background-color: rgb(213, 210, 210);
+}
+
+.alldiv{
+  
+  margin-left: 11.7%;
+  padding-left: 1%;
+  padding-right: 3%;
+  justify-content: center;
+  text-align: center;
+  position: fixed;
+  background-color: rgb(43, 43, 43);
+  color : rgb(255, 174, 0);
+  
+
+  width: 90%;
+}
+
+.sepdiv{
+ 
+ padding-top: 2.2%;
+ padding-bottom: 2.0%;
+
+  
+   
+ }
+
+
+
+
+
+.rowsdiv{
+margin-left: 18.5%;
+border-bottom: 2px solid rgb(255, 174, 0);
+border-top: 2px solid rgb(255, 174, 0);
+background-color: rgb(180, 178, 178);
+
+width : 142%;
+}
+
+.imgdiv{
+
+
+
+}
+
+.imgsize{
+width: fill;
+
+
+
+}
+
+
+.rowtxt{
+
+ 
+
+}
+
+.titlename{
+color : rgb(235, 48, 104);
+margin-top: 2%;
+
+}
+
+.txtfont{
+font-size: large;
+text-justify:auto;
+
+}
+
+
+.btnborder{
+
+justify-content: center;
+display: fixed;
+margin-top: 20%;
+margin-left: 4%;
+}
+
+.btnview{
+width: 130%;
+
+}
+
+.btnupdate{
+
+justify-content: center;
+display: fixed;
+margin-top: 20%;
+margin-left: 3%;
+}
+
+.date{
+  margin-top: 10%;
+}
+
+
+.tablediv{
+ margin-left: 11.7%;
+ margin-top: 6.45%;
+
+ background-color: rgba(182, 175, 175, 0.705);
+ width : 88.25%;
+}
+
+.pictr{
+  width: 100%;
+}
+
+.butt{
+  width: fill;
+
+ margin-left: 18%;
+ margin-top: 13%;
+
+
+
+
+}
+
+
+
+
+
